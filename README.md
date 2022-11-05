@@ -25,3 +25,8 @@ npm install
 ```
 npm install
 ```
+
+### Executar Cypress: 
+```
+npx cypress open
+``` 
