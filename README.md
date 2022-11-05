@@ -7,7 +7,6 @@ Bitcoin, Dacxi, Ethereum, Atom e Luna. Todos os dados são recebidos através da
 que faz a listagem dos valores de determinada moeda nos últimos 30 dias. 
 
 ## Tecnologias usadas durante o desenvolvimento:
-<hr />
 <ul>
   <li>Vue JS</li>
   <li>Tailwind</li>
@@ -16,7 +15,6 @@ que faz a listagem dos valores de determinada moeda nos últimos 30 dias.
 </ul>
 
 ## Executando o projeto:
-<hr />
 
 ### Instale as dependências: 
 ```
